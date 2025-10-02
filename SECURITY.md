@@ -16,4 +16,7 @@
 
 4. **Directorios de build/dist (`dist/`, `build/`, `out/`)**
 
-   Contienen artefactos generados automáticamente durante el proceso de compilación o empaquetado. Estos no deben subirse, ya que se pueden          regenerar en cualquier entorno de desarrollo o integración continua.  
+   Contienen artefactos generados automáticamente durante el proceso de compilación o empaquetado. Estos no deben subirse, ya que se pueden          regenerar en cualquier entorno de desarrollo o integración continua.
+
+## Prácticas de seguridad
+
